@@ -6,7 +6,31 @@
       "desc": "Test",
       "price": "500",
       "color": "#000000",
-      "image": "https://www.reliancedigital.in/medias/Apple-iPhone-14-Pro-Max-Mobile-Phone-493177798-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyMzk2N3xpbWFnZS9qcGVnfGltYWdlcy9oZDQvaDAzLzk4OTA3MjgyNDczMjYuanBnfGM1ZDU5NmEyOTUzZmZkMWViODBhZDQzODdjM2E3ZmEzOWZmYzA3NzliNDNhNDgxZGE4NTk5YzY5NDIyZmExYWE"
+      "image": "https://media.croma.com/image/upload/v1662655485/Croma%20Assets/Communication/Mobiles/Images/261971_c8p8eb.png"
+    },
+    {
+      "id": 1,
+      "name": "Realme 9i 5G",
+      "desc": "Test",
+      "price": "500",
+      "color": "#000000",
+      "image": "https://cdn1.smartprix.com/rx-irixFVEDu-w1200-h1200/rixFVEDu.jpg"
+    },
+    {
+      "id": 1,
+      "name": "OnePlus Nord 2",
+      "desc": "Test",
+      "price": "500",
+      "color": "#000000",
+      "image": "https://oasis.opstatics.com/content/dam/oasis/page/2021/ebba/spec/nord2_Gray_Sierra.png"
+    },
+    {
+      "id": 1,
+      "name": "Samsung S10",
+      "desc": "Test",
+      "price": "500",
+      "color": "#000000",
+      "image": "https://www.zdnet.com/a/img/resize/447f7313899d5d78345b77dbd3e73fef4c7ea706/2019/06/05/e3f2354e-3b99-449d-b62b-c3b1a36cc6ad/samsung-s10-5g.jpg?auto=webp&fit=crop&height=1200&width=1200"
     },
     {
       "id": 1,
@@ -14,7 +38,31 @@
       "desc": "Test",
       "price": "500",
       "color": "#000000",
-      "image": "https://www.reliancedigital.in/medias/Apple-iPhone-14-Pro-Max-Mobile-Phone-493177798-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyMzk2N3xpbWFnZS9qcGVnfGltYWdlcy9oZDQvaDAzLzk4OTA3MjgyNDczMjYuanBnfGM1ZDU5NmEyOTUzZmZkMWViODBhZDQzODdjM2E3ZmEzOWZmYzA3NzliNDNhNDgxZGE4NTk5YzY5NDIyZmExYWE"
+      "image": "https://media.croma.com/image/upload/v1662655485/Croma%20Assets/Communication/Mobiles/Images/261971_c8p8eb.png"
+    },
+    {
+      "id": 1,
+      "name": "Realme 9i 5G",
+      "desc": "Test",
+      "price": "500",
+      "color": "#000000",
+      "image": "https://cdn1.smartprix.com/rx-irixFVEDu-w1200-h1200/rixFVEDu.jpg"
+    },
+    {
+      "id": 1,
+      "name": "OnePlus Nord 2",
+      "desc": "Test",
+      "price": "500",
+      "color": "#000000",
+      "image": "https://oasis.opstatics.com/content/dam/oasis/page/2021/ebba/spec/nord2_Gray_Sierra.png"
+    },
+    {
+      "id": 1,
+      "name": "Samsung S10",
+      "desc": "Test",
+      "price": "500",
+      "color": "#000000",
+      "image": "https://www.zdnet.com/a/img/resize/447f7313899d5d78345b77dbd3e73fef4c7ea706/2019/06/05/e3f2354e-3b99-449d-b62b-c3b1a36cc6ad/samsung-s10-5g.jpg?auto=webp&fit=crop&height=1200&width=1200"
     },
     {
       "id": 1,
@@ -22,7 +70,31 @@
       "desc": "Test",
       "price": "500",
       "color": "#000000",
-      "image": "https://www.reliancedigital.in/medias/Apple-iPhone-14-Pro-Max-Mobile-Phone-493177798-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyMzk2N3xpbWFnZS9qcGVnfGltYWdlcy9oZDQvaDAzLzk4OTA3MjgyNDczMjYuanBnfGM1ZDU5NmEyOTUzZmZkMWViODBhZDQzODdjM2E3ZmEzOWZmYzA3NzliNDNhNDgxZGE4NTk5YzY5NDIyZmExYWE"
+      "image": "https://media.croma.com/image/upload/v1662655485/Croma%20Assets/Communication/Mobiles/Images/261971_c8p8eb.png"
+    },
+    {
+      "id": 1,
+      "name": "Realme 9i 5G",
+      "desc": "Test",
+      "price": "500",
+      "color": "#000000",
+      "image": "https://cdn1.smartprix.com/rx-irixFVEDu-w1200-h1200/rixFVEDu.jpg"
+    },
+    {
+      "id": 1,
+      "name": "OnePlus Nord 2",
+      "desc": "Test",
+      "price": "500",
+      "color": "#000000",
+      "image": "https://oasis.opstatics.com/content/dam/oasis/page/2021/ebba/spec/nord2_Gray_Sierra.png"
+    },
+    {
+      "id": 1,
+      "name": "Samsung S10",
+      "desc": "Test",
+      "price": "500",
+      "color": "#000000",
+      "image": "https://www.zdnet.com/a/img/resize/447f7313899d5d78345b77dbd3e73fef4c7ea706/2019/06/05/e3f2354e-3b99-449d-b62b-c3b1a36cc6ad/samsung-s10-5g.jpg?auto=webp&fit=crop&height=1200&width=1200"
     },
     {
       "id": 1,
@@ -30,7 +102,31 @@
       "desc": "Test",
       "price": "500",
       "color": "#000000",
-      "image": "https://www.reliancedigital.in/medias/Apple-iPhone-14-Pro-Max-Mobile-Phone-493177798-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyMzk2N3xpbWFnZS9qcGVnfGltYWdlcy9oZDQvaDAzLzk4OTA3MjgyNDczMjYuanBnfGM1ZDU5NmEyOTUzZmZkMWViODBhZDQzODdjM2E3ZmEzOWZmYzA3NzliNDNhNDgxZGE4NTk5YzY5NDIyZmExYWE"
+      "image": "https://media.croma.com/image/upload/v1662655485/Croma%20Assets/Communication/Mobiles/Images/261971_c8p8eb.png"
+    },
+    {
+      "id": 1,
+      "name": "Realme 9i 5G",
+      "desc": "Test",
+      "price": "500",
+      "color": "#000000",
+      "image": "https://cdn1.smartprix.com/rx-irixFVEDu-w1200-h1200/rixFVEDu.jpg"
+    },
+    {
+      "id": 1,
+      "name": "OnePlus Nord 2",
+      "desc": "Test",
+      "price": "500",
+      "color": "#000000",
+      "image": "https://oasis.opstatics.com/content/dam/oasis/page/2021/ebba/spec/nord2_Gray_Sierra.png"
+    },
+    {
+      "id": 1,
+      "name": "Samsung S10",
+      "desc": "Test",
+      "price": "500",
+      "color": "#000000",
+      "image": "https://www.zdnet.com/a/img/resize/447f7313899d5d78345b77dbd3e73fef4c7ea706/2019/06/05/e3f2354e-3b99-449d-b62b-c3b1a36cc6ad/samsung-s10-5g.jpg?auto=webp&fit=crop&height=1200&width=1200"
     },
     {
       "id": 1,
@@ -38,7 +134,31 @@
       "desc": "Test",
       "price": "500",
       "color": "#000000",
-      "image": "https://www.reliancedigital.in/medias/Apple-iPhone-14-Pro-Max-Mobile-Phone-493177798-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyMzk2N3xpbWFnZS9qcGVnfGltYWdlcy9oZDQvaDAzLzk4OTA3MjgyNDczMjYuanBnfGM1ZDU5NmEyOTUzZmZkMWViODBhZDQzODdjM2E3ZmEzOWZmYzA3NzliNDNhNDgxZGE4NTk5YzY5NDIyZmExYWE"
+      "image": "https://media.croma.com/image/upload/v1662655485/Croma%20Assets/Communication/Mobiles/Images/261971_c8p8eb.png"
+    },
+    {
+      "id": 1,
+      "name": "Realme 9i 5G",
+      "desc": "Test",
+      "price": "500",
+      "color": "#000000",
+      "image": "https://cdn1.smartprix.com/rx-irixFVEDu-w1200-h1200/rixFVEDu.jpg"
+    },
+    {
+      "id": 1,
+      "name": "OnePlus Nord 2",
+      "desc": "Test",
+      "price": "500",
+      "color": "#000000",
+      "image": "https://oasis.opstatics.com/content/dam/oasis/page/2021/ebba/spec/nord2_Gray_Sierra.png"
+    },
+    {
+      "id": 1,
+      "name": "Samsung S10",
+      "desc": "Test",
+      "price": "500",
+      "color": "#000000",
+      "image": "https://www.zdnet.com/a/img/resize/447f7313899d5d78345b77dbd3e73fef4c7ea706/2019/06/05/e3f2354e-3b99-449d-b62b-c3b1a36cc6ad/samsung-s10-5g.jpg?auto=webp&fit=crop&height=1200&width=1200"
     },
     {
       "id": 1,
@@ -46,55 +166,31 @@
       "desc": "Test",
       "price": "500",
       "color": "#000000",
-      "image": "https://www.reliancedigital.in/medias/Apple-iPhone-14-Pro-Max-Mobile-Phone-493177798-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyMzk2N3xpbWFnZS9qcGVnfGltYWdlcy9oZDQvaDAzLzk4OTA3MjgyNDczMjYuanBnfGM1ZDU5NmEyOTUzZmZkMWViODBhZDQzODdjM2E3ZmEzOWZmYzA3NzliNDNhNDgxZGE4NTk5YzY5NDIyZmExYWE"
+      "image": "https://media.croma.com/image/upload/v1662655485/Croma%20Assets/Communication/Mobiles/Images/261971_c8p8eb.png"
     },
     {
       "id": 1,
-      "name": "IPhone 14",
+      "name": "Realme 9i 5G",
       "desc": "Test",
       "price": "500",
       "color": "#000000",
-      "image": "https://www.reliancedigital.in/medias/Apple-iPhone-14-Pro-Max-Mobile-Phone-493177798-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyMzk2N3xpbWFnZS9qcGVnfGltYWdlcy9oZDQvaDAzLzk4OTA3MjgyNDczMjYuanBnfGM1ZDU5NmEyOTUzZmZkMWViODBhZDQzODdjM2E3ZmEzOWZmYzA3NzliNDNhNDgxZGE4NTk5YzY5NDIyZmExYWE"
+      "image": "https://cdn1.smartprix.com/rx-irixFVEDu-w1200-h1200/rixFVEDu.jpg"
     },
     {
       "id": 1,
-      "name": "IPhone 14",
+      "name": "OnePlus Nord 2",
       "desc": "Test",
       "price": "500",
       "color": "#000000",
-      "image": "https://www.reliancedigital.in/medias/Apple-iPhone-14-Pro-Max-Mobile-Phone-493177798-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyMzk2N3xpbWFnZS9qcGVnfGltYWdlcy9oZDQvaDAzLzk4OTA3MjgyNDczMjYuanBnfGM1ZDU5NmEyOTUzZmZkMWViODBhZDQzODdjM2E3ZmEzOWZmYzA3NzliNDNhNDgxZGE4NTk5YzY5NDIyZmExYWE"
+      "image": "https://oasis.opstatics.com/content/dam/oasis/page/2021/ebba/spec/nord2_Gray_Sierra.png"
     },
     {
       "id": 1,
-      "name": "IPhone 14",
+      "name": "Samsung S10",
       "desc": "Test",
       "price": "500",
       "color": "#000000",
-      "image": "https://www.reliancedigital.in/medias/Apple-iPhone-14-Pro-Max-Mobile-Phone-493177798-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyMzk2N3xpbWFnZS9qcGVnfGltYWdlcy9oZDQvaDAzLzk4OTA3MjgyNDczMjYuanBnfGM1ZDU5NmEyOTUzZmZkMWViODBhZDQzODdjM2E3ZmEzOWZmYzA3NzliNDNhNDgxZGE4NTk5YzY5NDIyZmExYWE"
-    },
-    {
-      "id": 1,
-      "name": "IPhone 14",
-      "desc": "Test",
-      "price": "500",
-      "color": "#000000",
-      "image": "https://www.reliancedigital.in/medias/Apple-iPhone-14-Pro-Max-Mobile-Phone-493177798-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyMzk2N3xpbWFnZS9qcGVnfGltYWdlcy9oZDQvaDAzLzk4OTA3MjgyNDczMjYuanBnfGM1ZDU5NmEyOTUzZmZkMWViODBhZDQzODdjM2E3ZmEzOWZmYzA3NzliNDNhNDgxZGE4NTk5YzY5NDIyZmExYWE"
-    },
-    {
-      "id": 1,
-      "name": "IPhone 14",
-      "desc": "Test",
-      "price": "500",
-      "color": "#000000",
-      "image": "https://www.reliancedigital.in/medias/Apple-iPhone-14-Pro-Max-Mobile-Phone-493177798-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyMzk2N3xpbWFnZS9qcGVnfGltYWdlcy9oZDQvaDAzLzk4OTA3MjgyNDczMjYuanBnfGM1ZDU5NmEyOTUzZmZkMWViODBhZDQzODdjM2E3ZmEzOWZmYzA3NzliNDNhNDgxZGE4NTk5YzY5NDIyZmExYWE"
-    },
-    {
-      "id": 1,
-      "name": "IPhone 14",
-      "desc": "Test",
-      "price": "500",
-      "color": "#000000",
-      "image": "https://www.reliancedigital.in/medias/Apple-iPhone-14-Pro-Max-Mobile-Phone-493177798-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyMzk2N3xpbWFnZS9qcGVnfGltYWdlcy9oZDQvaDAzLzk4OTA3MjgyNDczMjYuanBnfGM1ZDU5NmEyOTUzZmZkMWViODBhZDQzODdjM2E3ZmEzOWZmYzA3NzliNDNhNDgxZGE4NTk5YzY5NDIyZmExYWE"
+      "image": "https://www.zdnet.com/a/img/resize/447f7313899d5d78345b77dbd3e73fef4c7ea706/2019/06/05/e3f2354e-3b99-449d-b62b-c3b1a36cc6ad/samsung-s10-5g.jpg?auto=webp&fit=crop&height=1200&width=1200"
     }
   ]
 }

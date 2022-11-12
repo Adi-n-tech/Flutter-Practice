@@ -3,9 +3,9 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:my_first_app/widgets/Drawer.dart';
-import 'package:my_first_app/widgets/product_widget.dart';
 
 import '../model/Product.dart';
+import '../widgets/product_widget.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
@@ -29,26 +29,48 @@ class _HomePageState extends State<HomePage> {
       appBar: AppBar(
         title: Text("Home"),
       ),
-      body: GridView.builder(
-          gridDelegate:
-              SliverGridDelegateWithFixedCrossAxisCount(crossAxisCount: 2),
-          itemCount: products.length,
-          itemBuilder: (context, index) {
-            return ProductWidget(product: products[index]);
-          }),
-      // body: ListView.builder(
-      //   itemCount: products.length,
-      //   itemBuilder: (BuildContext context, int index) {
-      //     return products.isNotEmpty
-      //         ? ProductWidget(
-      //             product: products[index],
-      //           )
-      //         : Center(
-      //             child: CircularProgressIndicator(),
-      //           );
-      //   },
-      // ),
       drawer: MyDrawer(),
+      body: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [
+          Container(
+              padding: EdgeInsets.symmetric(vertical: 10, horizontal: 35),
+              child: Column(
+                children: [
+                  Text(
+                    "Trending Mobiles",
+                    style: TextStyle(
+                        fontSize: 22,
+                        fontWeight: FontWeight.bold,
+                        color: Colors.black54),
+                  ),
+                  Text(
+                    "Brand New Mobile Phones",
+                    style: TextStyle(
+                        fontSize: 16,
+                        fontWeight: FontWeight.bold,
+                        color: Colors.grey),
+                  ),
+                ],
+                crossAxisAlignment: CrossAxisAlignment.start,
+              )),
+          Expanded(
+            child: ListView.builder(
+              itemCount: products.length,
+              itemBuilder: (BuildContext context, int index) {
+                return products.isNotEmpty
+                    ? ProductWidget(
+                        product: products[index],
+                      )
+                    : Center(
+                        child: CircularProgressIndicator(),
+                      );
+              },
+            ),
+          ),
+        ],
+      ),
     );
   }
 

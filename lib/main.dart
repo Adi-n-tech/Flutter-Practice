@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
           ),
           primarySwatch: Colors.deepOrange,
           accentColor: Colors.orangeAccent,
-          fontFamily: GoogleFonts.macondo().fontFamily),
+          fontFamily: GoogleFonts.poppins().fontFamily),
       routes: {
         "/": (context) => LoginPage(),
         MyRoutes.home: (context) => HomePage(),
