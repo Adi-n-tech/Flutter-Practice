@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
           accentColor: Colors.orangeAccent,
           fontFamily: GoogleFonts.macondo().fontFamily),
       routes: {
-        "/": (context) => LoginPage(),
+        "/": (context) => HomePage(),
         MyRoutes.home: (context) => HomePage(),
         MyRoutes.login: (context) => LoginPage()
       },
