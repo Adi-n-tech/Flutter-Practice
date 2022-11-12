@@ -3,9 +3,9 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:my_first_app/widgets/Drawer.dart';
+import 'package:my_first_app/widgets/product_widget.dart';
 
 import '../model/Product.dart';
-import '../widgets/product_widget.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
@@ -29,18 +29,25 @@ class _HomePageState extends State<HomePage> {
       appBar: AppBar(
         title: Text("Home"),
       ),
-      body: ListView.builder(
-        itemCount: products.length,
-        itemBuilder: (BuildContext context, int index) {
-          return products.isNotEmpty
-              ? ProductWidget(
-                  product: products[index],
-                )
-              : Center(
-                  child: CircularProgressIndicator(),
-                );
-        },
-      ),
+      body: GridView.builder(
+          gridDelegate:
+              SliverGridDelegateWithFixedCrossAxisCount(crossAxisCount: 2),
+          itemCount: products.length,
+          itemBuilder: (context, index) {
+            return ProductWidget(product: products[index]);
+          }),
+      // body: ListView.builder(
+      //   itemCount: products.length,
+      //   itemBuilder: (BuildContext context, int index) {
+      //     return products.isNotEmpty
+      //         ? ProductWidget(
+      //             product: products[index],
+      //           )
+      //         : Center(
+      //             child: CircularProgressIndicator(),
+      //           );
+      //   },
+      // ),
       drawer: MyDrawer(),
     );
   }
