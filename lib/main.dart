@@ -15,11 +15,15 @@ class MyApp extends StatelessWidget {
       // home: HomePage(),
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
+          appBarTheme: AppBarTheme(
+            color: Colors.deepOrange,
+            elevation: 5,
+          ),
           primarySwatch: Colors.deepOrange,
           accentColor: Colors.orangeAccent,
           fontFamily: GoogleFonts.macondo().fontFamily),
       routes: {
-        "/": (context) => HomePage(),
+        "/": (context) => LoginPage(),
         MyRoutes.home: (context) => HomePage(),
         MyRoutes.login: (context) => LoginPage()
       },

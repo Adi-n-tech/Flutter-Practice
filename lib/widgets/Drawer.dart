@@ -55,6 +55,17 @@ class MyDrawer extends StatelessWidget {
               style: TextStyle(color: Colors.white),
             ),
           ),
+          ListTile(
+            leading: Icon(
+              CupertinoIcons.arrow_left_circle,
+              color: Colors.white,
+            ),
+            title: Text(
+              "Log out",
+              textScaleFactor: 1.2,
+              style: TextStyle(color: Colors.white),
+            ),
+          ),
         ],
       ),
     );

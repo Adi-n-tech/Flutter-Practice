@@ -1,8 +1,27 @@
+import 'dart:convert';
+
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:my_first_app/widgets/Drawer.dart';
 
-class HomePage extends StatelessWidget {
+import '../model/Product.dart';
+import '../widgets/product_widget.dart';
+
+class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
+
+  @override
+  State<HomePage> createState() => _HomePageState();
+}
+
+class _HomePageState extends State<HomePage> {
+  List<Product> products = List.empty();
+
+  @override
+  void initState() {
+    loadData();
+    super.initState();
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -10,14 +29,30 @@ class HomePage extends StatelessWidget {
       appBar: AppBar(
         title: Text("Home"),
       ),
-      body: Container(
-        child: Text(
-          "Hello",
-          style: TextStyle(
-              color: Colors.blue, fontSize: 40, fontWeight: FontWeight.bold),
-        ),
+      body: ListView.builder(
+        itemCount: products.length,
+        itemBuilder: (BuildContext context, int index) {
+          return products.isNotEmpty
+              ? ProductWidget(
+                  product: products[index],
+                )
+              : Center(
+                  child: CircularProgressIndicator(),
+                );
+        },
       ),
       drawer: MyDrawer(),
     );
+  }
+
+  void loadData() async {
+    var productJson =
+        await rootBundle.loadString("assets/files/products_list.json");
+    var decodeJson = jsonDecode(productJson);
+    var productsData = decodeJson["products"];
+    products = List.from(productsData)
+        .map<Product>((item) => Product.fromMap(item))
+        .toList();
+    setState(() {});
   }
 }
