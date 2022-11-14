@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:my_first_app/utils/routes.dart';
 
 class MyDrawer extends StatelessWidget {
   const MyDrawer({Key? key}) : super(key: key);
@@ -27,6 +28,7 @@ class MyDrawer extends StatelessWidget {
               CupertinoIcons.home,
               color: Colors.white,
             ),
+            onTap: () => {},
             title: Text(
               "Home",
               textScaleFactor: 1.2,
@@ -60,6 +62,7 @@ class MyDrawer extends StatelessWidget {
               CupertinoIcons.arrow_left_circle,
               color: Colors.white,
             ),
+            onTap: () => {Navigator.pushNamed(context, MyRoutes.login)},
             title: Text(
               "Log out",
               textScaleFactor: 1.2,

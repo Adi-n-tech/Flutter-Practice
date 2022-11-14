@@ -1,4 +1,8 @@
+import 'dart:ui';
+
 class Utility {
+  static Color gray = Color(0xffecf0f1);
+
   /*static showToast(String message) {
     Fluttertoast.showToast(
         msg: message,

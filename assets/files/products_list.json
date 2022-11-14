@@ -3,21 +3,21 @@
     {
       "id": 1,
       "name": "IPhone 14",
-      "desc": "Test",
+      "desc": "iPhone 14 Pro has Dynamic Island, a magical new way to interact with iPhone. And an Always‑On display, which keeps your important info at a glance.",
       "price": "500",
       "color": "#000000",
       "image": "https://media.croma.com/image/upload/v1662655485/Croma%20Assets/Communication/Mobiles/Images/261971_c8p8eb.png"
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "Realme 9i 5G",
-      "desc": "Test",
+      "desc": "realme's powerful Dynamic RAM Expansion (DRE) technology allows the 6GB of memory to be expanded by up to 5GB to make 11GB for an even smoother experience.",
       "price": "500",
       "color": "#000000",
       "image": "https://cdn1.smartprix.com/rx-irixFVEDu-w1200-h1200/rixFVEDu.jpg"
     },
     {
-      "id": 1,
+      "id": 3,
       "name": "OnePlus Nord 2",
       "desc": "Test",
       "price": "500",
@@ -25,15 +25,15 @@
       "image": "https://oasis.opstatics.com/content/dam/oasis/page/2021/ebba/spec/nord2_Gray_Sierra.png"
     },
     {
-      "id": 1,
+      "id": 4,
       "name": "Samsung S10",
-      "desc": "Test",
+      "desc": "Galaxy S10 5G is a smartphone designed and sold by Samsung. Announced in April, 2019.",
       "price": "500",
       "color": "#000000",
-      "image": "https://www.zdnet.com/a/img/resize/447f7313899d5d78345b77dbd3e73fef4c7ea706/2019/06/05/e3f2354e-3b99-449d-b62b-c3b1a36cc6ad/samsung-s10-5g.jpg?auto=webp&fit=crop&height=1200&width=1200"
+      "image":"https://m.media-amazon.com/images/I/51HKPGGtyxL._AC_SX679_.jpg"
     },
     {
-      "id": 1,
+      "id": 5,
       "name": "IPhone 14",
       "desc": "Test",
       "price": "500",
@@ -41,7 +41,7 @@
       "image": "https://media.croma.com/image/upload/v1662655485/Croma%20Assets/Communication/Mobiles/Images/261971_c8p8eb.png"
     },
     {
-      "id": 1,
+      "id": 6,
       "name": "Realme 9i 5G",
       "desc": "Test",
       "price": "500",
@@ -49,7 +49,7 @@
       "image": "https://cdn1.smartprix.com/rx-irixFVEDu-w1200-h1200/rixFVEDu.jpg"
     },
     {
-      "id": 1,
+      "id": 7,
       "name": "OnePlus Nord 2",
       "desc": "Test",
       "price": "500",
@@ -57,7 +57,7 @@
       "image": "https://oasis.opstatics.com/content/dam/oasis/page/2021/ebba/spec/nord2_Gray_Sierra.png"
     },
     {
-      "id": 1,
+      "id": 8,
       "name": "Samsung S10",
       "desc": "Test",
       "price": "500",
@@ -65,7 +65,7 @@
       "image": "https://www.zdnet.com/a/img/resize/447f7313899d5d78345b77dbd3e73fef4c7ea706/2019/06/05/e3f2354e-3b99-449d-b62b-c3b1a36cc6ad/samsung-s10-5g.jpg?auto=webp&fit=crop&height=1200&width=1200"
     },
     {
-      "id": 1,
+      "id": 9,
       "name": "IPhone 14",
       "desc": "Test",
       "price": "500",
@@ -73,7 +73,7 @@
       "image": "https://media.croma.com/image/upload/v1662655485/Croma%20Assets/Communication/Mobiles/Images/261971_c8p8eb.png"
     },
     {
-      "id": 1,
+      "id": 10,
       "name": "Realme 9i 5G",
       "desc": "Test",
       "price": "500",
@@ -81,7 +81,7 @@
       "image": "https://cdn1.smartprix.com/rx-irixFVEDu-w1200-h1200/rixFVEDu.jpg"
     },
     {
-      "id": 1,
+      "id": 11,
       "name": "OnePlus Nord 2",
       "desc": "Test",
       "price": "500",
@@ -89,7 +89,7 @@
       "image": "https://oasis.opstatics.com/content/dam/oasis/page/2021/ebba/spec/nord2_Gray_Sierra.png"
     },
     {
-      "id": 1,
+      "id": 12,
       "name": "Samsung S10",
       "desc": "Test",
       "price": "500",
@@ -97,7 +97,7 @@
       "image": "https://www.zdnet.com/a/img/resize/447f7313899d5d78345b77dbd3e73fef4c7ea706/2019/06/05/e3f2354e-3b99-449d-b62b-c3b1a36cc6ad/samsung-s10-5g.jpg?auto=webp&fit=crop&height=1200&width=1200"
     },
     {
-      "id": 1,
+      "id": 13,
       "name": "IPhone 14",
       "desc": "Test",
       "price": "500",
@@ -105,7 +105,7 @@
       "image": "https://media.croma.com/image/upload/v1662655485/Croma%20Assets/Communication/Mobiles/Images/261971_c8p8eb.png"
     },
     {
-      "id": 1,
+      "id": 14,
       "name": "Realme 9i 5G",
       "desc": "Test",
       "price": "500",
@@ -113,7 +113,7 @@
       "image": "https://cdn1.smartprix.com/rx-irixFVEDu-w1200-h1200/rixFVEDu.jpg"
     },
     {
-      "id": 1,
+      "id": 15,
       "name": "OnePlus Nord 2",
       "desc": "Test",
       "price": "500",
@@ -121,7 +121,7 @@
       "image": "https://oasis.opstatics.com/content/dam/oasis/page/2021/ebba/spec/nord2_Gray_Sierra.png"
     },
     {
-      "id": 1,
+      "id": 16,
       "name": "Samsung S10",
       "desc": "Test",
       "price": "500",
@@ -129,7 +129,7 @@
       "image": "https://www.zdnet.com/a/img/resize/447f7313899d5d78345b77dbd3e73fef4c7ea706/2019/06/05/e3f2354e-3b99-449d-b62b-c3b1a36cc6ad/samsung-s10-5g.jpg?auto=webp&fit=crop&height=1200&width=1200"
     },
     {
-      "id": 1,
+      "id": 17,
       "name": "IPhone 14",
       "desc": "Test",
       "price": "500",
@@ -137,7 +137,7 @@
       "image": "https://media.croma.com/image/upload/v1662655485/Croma%20Assets/Communication/Mobiles/Images/261971_c8p8eb.png"
     },
     {
-      "id": 1,
+      "id": 18,
       "name": "Realme 9i 5G",
       "desc": "Test",
       "price": "500",
@@ -145,7 +145,7 @@
       "image": "https://cdn1.smartprix.com/rx-irixFVEDu-w1200-h1200/rixFVEDu.jpg"
     },
     {
-      "id": 1,
+      "id": 19,
       "name": "OnePlus Nord 2",
       "desc": "Test",
       "price": "500",
@@ -153,7 +153,7 @@
       "image": "https://oasis.opstatics.com/content/dam/oasis/page/2021/ebba/spec/nord2_Gray_Sierra.png"
     },
     {
-      "id": 1,
+      "id": 20,
       "name": "Samsung S10",
       "desc": "Test",
       "price": "500",
@@ -161,7 +161,7 @@
       "image": "https://www.zdnet.com/a/img/resize/447f7313899d5d78345b77dbd3e73fef4c7ea706/2019/06/05/e3f2354e-3b99-449d-b62b-c3b1a36cc6ad/samsung-s10-5g.jpg?auto=webp&fit=crop&height=1200&width=1200"
     },
     {
-      "id": 1,
+      "id": 21,
       "name": "IPhone 14",
       "desc": "Test",
       "price": "500",
@@ -169,7 +169,7 @@
       "image": "https://media.croma.com/image/upload/v1662655485/Croma%20Assets/Communication/Mobiles/Images/261971_c8p8eb.png"
     },
     {
-      "id": 1,
+      "id": 22,
       "name": "Realme 9i 5G",
       "desc": "Test",
       "price": "500",
@@ -177,7 +177,7 @@
       "image": "https://cdn1.smartprix.com/rx-irixFVEDu-w1200-h1200/rixFVEDu.jpg"
     },
     {
-      "id": 1,
+      "id": 23,
       "name": "OnePlus Nord 2",
       "desc": "Test",
       "price": "500",
@@ -185,7 +185,7 @@
       "image": "https://oasis.opstatics.com/content/dam/oasis/page/2021/ebba/spec/nord2_Gray_Sierra.png"
     },
     {
-      "id": 1,
+      "id": 24,
       "name": "Samsung S10",
       "desc": "Test",
       "price": "500",
